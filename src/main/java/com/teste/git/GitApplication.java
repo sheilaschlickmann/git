@@ -11,7 +11,7 @@ public class GitApplication {
 		SpringApplication.run(GitApplication.class, args);
 
 
-		System.out.println("oooooi");
+		System.out.println("hello");
 	}
 
 
